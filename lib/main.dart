@@ -60,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
                  TextSpan(text:
                  '         Multimedia Education \n',style: TextStyle(
                    color: Colors.red,fontWeight: FontWeight.bold ,
-                   fontSize: 20,
+                   fontSize: 20,height:-1.100,
                    wordSpacing: 2,decorationColor: Colors.redAccent,),),
                 TextSpan(text:
                'Shaping "Skills" for "scaling" higher..!!!!',style: TextStyle(
